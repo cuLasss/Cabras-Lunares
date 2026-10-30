@@ -1,0 +1,54 @@
+# This public repository is a showcase. Do not commit private source code here.
+
+# Private project folders (kept in the private backup)
+0*/
+fonte/
+site/
+cabras_lunares/
+lib/
+test/
+android/
+ios/
+web/
+
+# Source and data files that belong in the private backup
+*.dart
+*.py
+*.js
+*.mjs
+*.html
+*.json
+pubspec.yaml
+pubspec.lock
+
+# Private data and operational documents
+*.xls
+*.xlsx
+*.xlsm
+*.ods
+*.csv
+*.pdf
+*.docx
+
+# Secrets and signing material
+.env
+.env.*
+key.properties
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+
+# Local and generated files
+.idea/
+.vscode/
+*.log
+*.apk
+*.aab
+*.mp4
+*.avi
+*.zip
+node_modules/
+.DS_Store
+Thumbs.db
